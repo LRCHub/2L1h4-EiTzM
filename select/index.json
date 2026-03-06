@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Pretty Girl",
+  "base_artist": "Clairo",
+  "createdAt": "2026-03-06T05:50:02.563156Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pretty Girl",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/01_Pretty_Girl_f(x).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Pretty Girl Is Like",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/02_A_Pretty_Girl_Is_Like_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pretty Girl",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/03_Pretty_Girl_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Not a Pretty Girl",
+      "artist": "Ani DiFranco",
+      "has_synced": true,
+      "path": "select/04_Not_a_Pretty_Girl_Ani_DiFranco.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pretty Girl",
+      "artist": "Clairo",
+      "has_synced": true,
+      "path": "select/05_Pretty_Girl_Clairo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pretty Girl Hate",
+      "artist": "Republica",
+      "has_synced": true,
+      "path": "select/06_Pretty_Girl_Hate_Republica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pretty Girl Lie",
+      "artist": "Baby Queen",
+      "has_synced": true,
+      "path": "select/07_Pretty_Girl_Lie_Baby_Queen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pretty Girl (Cheat Codes X CADE Remix)",
+      "artist": "Maggie Lindemann",
+      "has_synced": true,
+      "path": "select/08_Pretty_Girl_(Cheat_Codes_X_CADE_Remix)_Maggie_Lindemann.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pretty Girl Hi Reimagined",
+      "artist": "UMI",
+      "has_synced": true,
+      "path": "select/09_Pretty_Girl_Hi_Reimagined_UMI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pretty Girl - Cheat Codes X CADE Remix",
+      "artist": "Maggie Lindemann feat. CADE & Cheat Codes",
+      "has_synced": true,
+      "path": "select/10_Pretty_Girl_-_Cheat_Codes_X_CADE_Remix_Maggie_Lindemann_feat._CADE_&_Cheat_Codes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pretty Girl - Cheat Codes X CADE Remix",
+      "artist": "Maggie Lindemann/Cheat Codes/CADE",
+      "has_synced": true,
+      "path": "select/11_Pretty_Girl_-_Cheat_Codes_X_CADE_Remix_Maggie_Lindemann_Cheat_Codes_CADE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pretty Girl",
+      "artist": "Ween",
+      "has_synced": true,
+      "path": "select/12_Pretty_Girl_Ween.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pretty Girl Why",
+      "artist": "Buffalo Springfield",
+      "has_synced": false,
+      "path": "select/13_Pretty_Girl_Why_Buffalo_Springfield.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pretty Girl Why (alternate mix)",
+      "artist": "Buffalo Springfield",
+      "has_synced": true,
+      "path": "select/14_Pretty_Girl_Why_(alternate_mix)_Buffalo_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Very Pretty Girl",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/15_Very_Pretty_Girl_Chris_Isaak.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pretty Girl",
+      "artist": "Atlanta Rhythm Section",
+      "has_synced": false,
+      "path": "select/16_Pretty_Girl_Atlanta_Rhythm_Section.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pretty Girl",
+      "artist": "Clairo",
+      "has_synced": false,
+      "path": "select/pl_01_Pretty_Girl_Clairo.txt"
+    }
+  ]
+}
